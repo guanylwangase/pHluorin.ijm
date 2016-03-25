@@ -6,4 +6,4 @@ Note that these scripts are intended for academic use only. You can redistribute
 http://imagej.nih.gov/ij/
 
 # For the old Matlab/ImageJ version:
-https://github.com/guanylwangase/phluorinmiji
+https://github.com/guanylwangase/pHluorin.miji
